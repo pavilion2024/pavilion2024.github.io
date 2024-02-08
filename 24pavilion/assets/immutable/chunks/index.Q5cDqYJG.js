@@ -1,0 +1,1 @@
+import{w as r}from"./index.Tq2Ngj-J.js";const s=r("/");function o(e,n){return e==null?void 0:e.match(new RegExp(`/${n}$`))}let t=!0;function u(){t=!0}function b(){t=!1}export{s as b,b as d,u as e,o as i,t as v};
