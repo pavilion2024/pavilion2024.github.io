@@ -1,0 +1,16 @@
+import{C as e,E as t,H as n,S as r,b as i,j as a,nt as o,q as s,rt as c,w as l}from"./BCgQ37-a.js";import"./BKyh3mbG.js";import{t as u}from"./mkDkvxhP.js";import{t as d}from"./CYoEgc2z.js";var f=l(`<p>작가이자 싱어송라이터인 이랑은 오랜 시간 한국 사회의 주변부와 균열의
+			지점을 노래와 언어로 드러내며, 제도와 권력 바깥에서 형성되는 감정과
+			목소리에 주목해 온 인물이다. 그의 작업은 대중음악이라는 형식을
+			취하면서도, 노동, 젠더, 불평등, 연대와 같은 사회적 현실을 개인의
+			경험과 감각을 통해 끈질기게 호출해 왔다. 최근 이랑은 아시아 전역에
+			걸쳐 활발히 활동하며 일본, 대만, 홍콩의 독립 음악 신 및 대안적 문화
+			공간과 공명해 왔다. 이러한 연결을 통해 불안정성, 돌봄, 공동의 삶을
+			둘러싼 보다 넓은 지역적 논의에 참여하고 있다.</p>`),p=l(`<p>Writer, artist, and singer-songwriter Lang Lee has long given
+			voice—through song and language—to the margins and fault lines of
+			Korean society, attending closely to the emotions and voices that
+			take shape outside institutional structures and systems of power. In
+			recent years, Lee has been actively performing and collaborating
+			across Asia, building resonant connections with independent music
+			communities and alternative cultural spaces in Japan, Taiwan, and
+			Hong Kong and engaging broader regional conversations around
+			precarity, care, and collective life.</p>`);function m(l,m){c(m,!0);let h=s(()=>u.data),g=s(()=>a(h).locale);d(l,{name:o=>{var s=e(),c=n(s),l=e=>{r(e,t(`이랑`))},u=e=>{r(e,t(`Lang Lee`))};i(c,e=>{a(g)===`ko`?e(l):e(u,-1)}),r(o,s)},children:(t,o)=>{var s=e(),c=n(s),l=e=>{r(e,f())},u=e=>{r(e,p())};i(c,e=>{a(g)===`ko`?e(l):e(u,-1)}),r(t,s)},$$slots:{name:!0,default:!0}}),o()}export{m as t};
