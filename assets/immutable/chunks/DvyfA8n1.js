@@ -1,4 +1,4 @@
-import{C as e,E as t,H as n,S as r,b as i,j as a,nt as o,q as s,rt as c,w as l}from"./BCgQ37-a.js";import"./BKyh3mbG.js";import{t as u}from"./mkDkvxhP.js";import{t as d}from"./CYoEgc2z.js";var f=l(`<p>사진가이자 작가인 황예지는 요리, 보살핌, 고백, 기록과 같은 여성적
+import{C as e,E as t,H as n,S as r,b as i,j as a,nt as o,q as s,rt as c,w as l}from"./BCgQ37-a.js";import"./BKyh3mbG.js";import{t as u}from"./CQ88yFbu.js";import{t as d}from"./S-TN41rG.js";var f=l(`<p>사진가이자 작가인 황예지는 요리, 보살핌, 고백, 기록과 같은 여성적
 			제스처를 저항의 도구로 재위치시킨다. 그의 작업 은 이미지와 텍스트,
 			음식과 아카이브의 교차점에서 전개되며, 사적인 행위와 기 록적 형식을
 			엮어 새로운 목격과 연대의 방식을 제안한다. ‘광장’에 시선을 두고,
