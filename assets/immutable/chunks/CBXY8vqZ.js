@@ -1,4 +1,4 @@
-import{C as e,E as t,H as n,S as r,b as i,j as a,nt as o,q as s,rt as c,w as l}from"./BCgQ37-a.js";import"./BKyh3mbG.js";import{t as u}from"./CQ88yFbu.js";import{t as d}from"./S-TN41rG.js";var f=l(`<p>르완다 출생인 크리스티앙 니암페타는 암스테르담과 뉴욕을 기반으로
+import{C as e,E as t,H as n,S as r,b as i,j as a,nt as o,q as s,rt as c,w as l}from"./BCgQ37-a.js";import"./BKyh3mbG.js";import{t as u}from"./Ds1jIzXB.js";import{t as d}from"./ChMaK7i_.js";var f=l(`<p>르완다 출생인 크리스티앙 니암페타는 암스테르담과 뉴욕을 기반으로
 			활동하며, 집단적 감각과 협력적 사고, 상호적 실천을 위한 ‘호스팅
 			구조’로서 프로그램, 전시, 상영, 퍼포먼스, 출판 등을 기획한다.
 			큐레이터 최빛나와 협업하며 2016년 광주비엔날레에 참여한 것을 계기로
